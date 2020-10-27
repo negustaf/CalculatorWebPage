@@ -4,7 +4,7 @@ A basic calculator website I made in high school with HTML, CSS, and JavaScript 
 (WEB210, 2016)
 
 ## Pseudo code
-1. Write HTML/CSS  
+### 1. Write HTML/CSS  
 	Input is by buttons - with specific value - appends to a string.  
 	Divs specific IDs.  
 	
