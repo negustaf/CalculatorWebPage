@@ -1,0 +1,106 @@
+h1 {
+	font-family: helvetica, sans-serif;
+	font-size: 20px;
+}
+
+.wrapper {
+    width: 1090px;
+	margin: 0px auto;
+}
+
+#top {
+	width: 100%;
+	height: 50px;
+	background-color: #eee;
+	margin: 0px auto;
+}
+
+#left {
+	float: left;
+    width: 320px;
+    padding-left:30px;
+    margin-top:22px;
+}
+
+#right {
+position: relative;
+float:right;
+width: 320px;
+margin-top: -215px;
+padding-right: 30px;
+text-align: left;
+
+}
+
+#core {
+	width:320px;
+	margin: 0px auto;
+	border: 1px solid #000;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+
+h2#ans {
+		font-family: helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 15px;
+}
+
+form {
+    width: 300px;
+margin: auto;
+padding: 10px;
+}
+
+.button {
+	padding:5px;
+	margin: 5px;
+	width: 60px;
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: none;
+	border-radius: 5px;
+	border-style: none;
+	background-color: #eee;
+	border: 1px solid #000;
+}
+
+#zero {
+    width: 135px;
+}
+
+#buttonclear {
+    width: 284px;
+}
+
+#buttonclear:focus {
+	background-color: #eee;
+	color:#000;
+	outline:0;
+}
+
+.button:hover {
+	background-color: #ccc;
+	color: yellow;
+}
+
+.button:focus {
+	background-color: #ccc;
+	color:yellow;
+	outline:0;
+}
+
+#last5 {
+	width:300px;
+	min-height: 10px;
+	max-height: 200px;
+	background-color:#eee;
+}
+
+#operations {
+	width: 300px;
+	min-height: 10px;
+	max-height:;
+	background-color:#eee;
+}

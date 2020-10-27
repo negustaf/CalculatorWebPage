@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Class Calculator Project</title>
+    <meta name="description" content="The HTML5 Herald">
+    <meta name="author" content="SitePoint">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!--
+    <div id="top">
+    <input type="textfield" name="ans" value="">
+    </div> -->
+    <div class="wrapper">
+      <div id="top">
+        <h2 id="ans"></h2>
+      </div>
+      <div id="left">
+        <h1> Last 5 Calculations</h1>
+        <div id="last5"></div>
+      </div>
+      <!-- Main Calculations -->
+      <div id="core">
+        <form name="calculator" >
+          <input type="button" class="button" value="7" id="seven"></input>
+          <input type="button" class="button" value="8" id="eight"></input>
+          <input type="button" class="button" value="9" id="nine"></input>
+          <input type="button" class="button" value=" + " id="plus"></input>
+          <input type="button" class="button" value="4" id="four"></input>
+          <input type="button" class="button" value="5" id="five"></input>
+          <input type="button" class="button" value="6" id="six"></input>
+          <input type="button" class="button" value=" - " id="minus"></input>
+          <input type="button" class="button" value="1" id="one"></input>
+          <input type="button" class="button" value="2" id="two"></input>
+          <input type="button" class="button" value="3" id="three"></input>
+          <input type="button" class="button" value=" / " id="divide"></input>
+          <input type="button" class="button" value="0" id="zero"></input>
+          <input type="button" class="button" value="=" id="equal"></input>
+          <input type="button" class="button" value=" * " id="multiply"></input>
+          <br>
+          <input type="button" class="button" value="Clear" id="buttonclear"></input>
+        </form>
+      </div>
+      <div id="right">
+        <h1> Order of Operations</h1>
+        <div id="operations"></div>
+      </div>
+    </div>
+    <script src="js/main.js"></script>
+  </body>
+</html>
