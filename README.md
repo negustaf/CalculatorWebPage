@@ -16,7 +16,9 @@ Divs specific IDs
 ### 2. JavaScript Functions
 
 ```Must hit clear to start over```
+
 	```Clear would also create empty string```
+	
 	```Converting string into array for functions```
 	```Equal```
 		```Finish the calculation```
