@@ -20,8 +20,11 @@ Divs specific IDs
 	```Clear would also create empty string```
 	
 	```Converting string into array for functions```
+	
 	```Equal```
+	
 		```Finish the calculation```
+		
 		```Stores calculation to last 5 section - ascending order```
 		```Put calculation into Order of Operations```
 		```Value at the top is replaced with answer```
