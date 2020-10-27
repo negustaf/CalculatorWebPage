@@ -4,15 +4,16 @@ A basic calculator website I made in high school with HTML, CSS, and JavaScript 
 (WEB210, 2016)
 
 ## Pseudo code
-### 1. Write HTML/CSS  
-	```
-	Input is by buttons - with specific value - appends to a string
-	```
+### 1. HTML/CSS
+</br>
+```
+Input is by buttons - with specific value - appends to a string
+```
 	```
 	Divs specific IDs
 	```
 	
-2. Write JavaScript functions
+2. JavaScript functions
 	Must hit clear to start over
 		Clear would also create empty string
 	Converting string into array for functions
