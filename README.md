@@ -6,7 +6,7 @@ A basic calculator website I made in high school with HTML, CSS, and JavaScript 
 ## Pseudo code
 ### 1. HTML/CSS
 </br>
-```_js
+```
 Input is by buttons - with specific value - appends to a string
 ```
 ```
