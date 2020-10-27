@@ -7,7 +7,7 @@ A basic calculator website I made in high school with HTML, CSS, and JavaScript 
 ### 1. HTML/CSS
 </br>
 
-```ruby
+```
 Input is by buttons - with specific value - appends to a string
 ```
 ```
