@@ -6,10 +6,10 @@ A basic calculator website I made in high school with HTML, CSS, and JavaScript 
 ## Pseudo code
 ### 1. HTML/CSS
 
-```sublime-theme
+```node
 Input is by buttons - with specific value - appends to a string
 ```
-```
+```javascript
 Divs specific IDs
 ```
 	
