@@ -6,13 +6,12 @@ A basic calculator website I made in high school with HTML, CSS, and JavaScript 
 ## Pseudo code
 ### 1. HTML/CSS
 </br>
-
-```ruby
+```_js
 Input is by buttons - with specific value - appends to a string
 ```
-	```
-	Divs specific IDs
-	```
+```
+Divs specific IDs
+```
 	
 2. JavaScript functions
 	Must hit clear to start over
