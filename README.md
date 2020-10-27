@@ -14,7 +14,8 @@ Divs specific IDs
 ```
 	
 ### 2. JavaScript Functions
-```Must hit clear to start over
+```
+Must hit clear to start over
 	Clear would also create empty string
 Converting string into array for functions
 Equal
@@ -25,4 +26,4 @@ Equal
 Take calculation add it into Order of Operations
 Order of Operations calls functions to solve problem
 Answer at bottom gets concatenated with original equation with answer
-
+```
