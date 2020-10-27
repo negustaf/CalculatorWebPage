@@ -1,5 +1,5 @@
 # Calculator Web Page
-A basic calculator website I made in high school with HTML, CSS, and JavaScript that displays its memory of your calculation history.
+A basic calculator website I made in high school with HTML, CSS, and JavaScript with a memory of your past five calculations and displays that history.
 
 https://negustaf.github.io/CalculatorWebPage/index.html
 
