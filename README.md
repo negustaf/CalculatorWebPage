@@ -17,7 +17,7 @@ Divs specific IDs
 
 ```Must hit clear to start over```
 
-	```Clear would also create empty string```
+```Clear would also create empty string```
 	
 	```Converting string into array for functions```
 	
