@@ -8,8 +8,6 @@ A basic calculator website I made in high school with HTML, CSS, and JavaScript 
 
 ```
 Input is by buttons - with specific value - appends to a string
-```
-```
 Divs specific IDs
 ```
 	
